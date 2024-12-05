@@ -1,9 +1,1 @@
-# <div align=center>Dmilly 👋</div>
-
-안녕하세요! 저는 밀리라고 해요.  
-제가 할 수 있는건 한국어밖에 없죠 🤨  
-저랑 친해지고 싶다면 아래의 연락처로 와주세요!  
-
-- Discord : Dmilly#3506
-
-*(자바와 코틀린을 배워 마인크래프트 플러그인을 주로 만들고 있지만 실력은 개똥이ㄷㅏ)*
+# <div align=center>Dmillying </div>
